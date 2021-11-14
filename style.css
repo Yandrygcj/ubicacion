@@ -1,0 +1,22 @@
+
+button{
+    border-color: rgb(49, 42, 54);
+    height: 30px;
+    background-color: rgb(143, 177, 241);
+    margin-top: 90px;
+    margin-left: 100px;
+}
+body{
+    background: rgb(176, 240, 240);
+    
+}
+div{
+    background-color: rgb(232, 245, 160);
+    height: 250px;
+    width: 350px;
+    margin-left: 550px;
+    margin-top: 150px ;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    
+}
